@@ -6,22 +6,6 @@ screen = pygame.display.set_mode((1280, 720))
 pygame.display.set_caption('Jump')
 clock = pygame.time.Clock()
 
-#IDEAS
-    
-#do kraq na mai:
-    #LEVEL2:
-    #da ima nekvi neshta kato poveche enemita koito da trq se biqt s pistolet ili bradva          
-    #LEVEL 3 s mnogo novi neshta i abilitita
-    #da nqma dupki mejdu platformite na platform2 level 1
-    #na duhcheto na purvi level da ima mega simple ai
-
-#zaduljitelno za subota i nedelq:
-    #da sloja nekvi neshta na level2
-    #sloji health bar
-    #shooting
-
-
-
 
 #loadvane na font za pisane
 text_font1 = pygame.font.Font('assets/fonts/score.ttf',60)
